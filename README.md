@@ -1,11 +1,11 @@
   ## Hello there 👋
   
   
-  ## About Me 👩‍💼
+  ## About Me 👩‍ 
   
 - 👀 I am MSS, working as an  .....
 - 💻 I’m a full stack MERN developer and a content writer on Twitter 
-- 🎓 I graduated in 2021 from GGSIPU, Delhi (B.Tech, CSE) with a CGPA of ....
+- 🎓 I will graduate  in 2024 from ..... (B.Tech, CSE) with a CGPA of ....
 - 🌱 I’m currently learning Vue JS & Cloud(Azure)
 - 💞️ Interests: Listening songs, creating content, drawing, painting
 
