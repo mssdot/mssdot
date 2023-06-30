@@ -26,8 +26,9 @@
 
  
 ## Contact Me
+
+ [Linkedin](https://www.linkedin.com/in/mssdot)
  
-[![LinkedIn](https://www.linkedin.com/in/mssdot)
  
 
 <!---
