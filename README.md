@@ -20,7 +20,9 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Statistics
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssdot)](https://github.com/mssdot/github-readme-stats)
 
 
 
