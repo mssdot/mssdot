@@ -21,8 +21,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssdot&theme=blue-green)](https://github.com/mssdot/github-readme-stats)<
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--  [Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssdot&show_icons=true&theme=blue-green))  -->
  
 
