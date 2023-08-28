@@ -22,8 +22,8 @@
 
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssdot&theme=blue-green)](https://github.com/mssdot/github-readme-stats)
-![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssdot&show_icons=true&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssdot&theme=blue-green)](https://github.com/mssdot/github-readme-stats)<
+<!--  [Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssdot&show_icons=true&theme=blue-green))  -->
  
 
 
