@@ -23,8 +23,8 @@
 ## Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssdot)](https://github.com/mssdot/github-readme-stats)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/mssdot/bbfce31e0217a3689c8d961a356cb10d/)
-
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue-green)
+ 
 
 
  
