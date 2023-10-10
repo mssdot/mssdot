@@ -22,6 +22,8 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssdot&theme=blue-green)](https://github.com/mssdot/github-readme-stats)<  
 <!--  [Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssdot&show_icons=true&theme=blue-green))  -->
